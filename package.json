@@ -1,0 +1,23 @@
+{
+  "name": "snake.io",
+  "version": "1.0.0",
+  "description": "snake game",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "snake-wasm": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieulc0/snake.io.git"
+  },
+  "author": "HieuLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieulc0/snake.io/issues"
+  },
+  "homepage": "https://github.com/hieulc0/snake.io#readme"
+}
